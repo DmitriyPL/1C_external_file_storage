@@ -1,0 +1,2 @@
+﻿[2021.06.26 20:57:16] - log - I - D.Plotitsyn захватил \\app1\1C\work\ExtForms\000_тест.epf
+[2021.06.26 20:57:26] - log - I - D.Plotitsyn отпустил \\app1\1C\work\ExtForms\000_тест.epf
